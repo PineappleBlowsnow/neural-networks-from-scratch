@@ -2,7 +2,7 @@
 
 **Independent implementation practice — not an MVA course project**
 
-Small PyTorch exercises for understanding the computation inside neural networks. This is a learning repository with two source files, separate from the completed MVA projects in my [portfolio](https://github.com/PineappleBlowsnow/mva-portfolio).
+Small PyTorch exercises for understanding the computation inside neural networks. This is a learning repository with two source files, separate from the completed MVA projects in my [portfolio](https://github.com/PineappleBlowsnow#mva-projects).
 
 | File | Implementation |
 |---|---|
